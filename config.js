@@ -19,8 +19,8 @@ var config = {
 	projectId: "fir-ui-demo-84a6c",
 	storageBucket: "fir-ui-demo-84a6c.appspot.com",
 	messagingSenderId: "265939374336"
-  };
-  firebase.initializeApp(config);
-  
-  var CLIENT_ID =
-	  '265939374336-cj26lol6s990fq9fp4s0ri86si3rj86n.apps.googleusercontent.com';
+};
+firebase.initializeApp(config);
+
+var CLIENT_ID =
+	'265939374336-cj26lol6s990fq9fp4s0ri86si3rj86n.apps.googleusercontent.com';
